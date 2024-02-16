@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "44b6",
+      "title": "Sarah Terry"
+    }
+  ],
+  "albums": [
+    {
+      "id": "cfa0",
+      "albumsId": "44b6",
+      "title": "Oriental Granite Bacon"
+    }
+  ],
+  "photos": [
+    {
+      "id": "3843",
+      "photosId": "cfa0",
+      "url": "https://picsum.photos/seed/JLKhbXlMOF/150/150"
+    },
+    {
+      "id": "bb7a",
+      "photosId": "cfa0",
+      "url": "https://picsum.photos/seed/kBR1TV/150/150"
+    },
+    {
+      "id": "0cdf",
+      "photosId": "cfa0",
+      "url": "https://picsum.photos/seed/UaTEg/150/150"
+    }
+  ]
+}
